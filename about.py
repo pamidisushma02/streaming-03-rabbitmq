@@ -5,12 +5,9 @@ help with debugging.
 This file is named:   about.py
 This module is named: about
 
-<<<<<<< HEAD
-=======
 Author: Sushma Pamidi
 Date: January 20, 2023
 
->>>>>>> 42e8cb6 (Module 3)
 It uses a built-in attribute representing the file name:
 
     print(get_header(__file__))
