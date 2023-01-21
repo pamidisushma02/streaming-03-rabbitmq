@@ -1,8 +1,13 @@
 """
 
+<<<<<<< HEAD
 Always customize this docstring. 
 
 Add your name, date, and a description of the program.
+=======
+Author: Sushma Pamidi
+Date: January 20, 2023
+>>>>>>> 42e8cb6 (Module 3)
 
 Listens for messages on the queue.
 This process runs continously. 
@@ -34,7 +39,11 @@ import pika, sys, os
 # define a main function to run the program
 def main():
     # create a blocking connection to the RabbitMQ server
+<<<<<<< HEAD
     connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHostt'))
+=======
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='LocalHost'))
+>>>>>>> 42e8cb6 (Module 3)
     # use the connection to create a communication channel
     channel = connection.channel()
     # use the channel to declare a queue

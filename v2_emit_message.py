@@ -1,8 +1,13 @@
 """
     This program sends a message to a queue on the RabbitMQ server.
 
+<<<<<<< HEAD
     Author: Denise Case
     Date: January 14, 2023
+=======
+    Author: Sushma Pamidi
+    Date: January 20, 2023
+>>>>>>> 42e8cb6 (Module 3)
 
 """
 
@@ -44,4 +49,8 @@ def send_message(host: str, queue_name: str, message: str):
 # without executing the code below.
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
+<<<<<<< HEAD
     send_message("llllocalhost","hello","Hello World!")
+=======
+    send_message("localhost","hello","Hello World!")
+>>>>>>> 42e8cb6 (Module 3)
