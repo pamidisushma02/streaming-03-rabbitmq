@@ -105,5 +105,6 @@ Each of the version 2 programs include an error as well.
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 ## Multiple Terminals
+![Sending and receiving messages with multiple terminals](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Multiple%20Terminals%20used.docx)
 
 ![Mac Example](screenshot.png)
