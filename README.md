@@ -1,5 +1,6 @@
 # Name: Sushma Pamidi
 # Repo: https://github.com/pamidisushma02/streaming-03-rabbitmq
+# Notes: Responses are added as well 
 
 # streaming-03-rabbitmq
 
@@ -37,6 +38,7 @@ Get started with RabbitMQ, a message broker, that enables multiple processes to 
 2. Run the file. 
 
 You'll need to fix an error in the program to get it to run. -- Fixed 
+
 Once it runs and finishes, we can reuse the terminal -- Done
 
 
@@ -46,7 +48,9 @@ Once it runs and finishes, we can reuse the terminal -- Done
 2. Run the file.
 
 You'll need to fix an error in the program to get it to run. -- Fixed 
-Once it runs successfully, will it terminate on its own? How do you know?  -- No it does not
+
+Once it runs successfully, will it terminate on its own? How do you know?  -- No it does not terminate on its own. We can not execute any other command on the terminal. We can use ctrl + C to terminate the process and then run any other command
+
 As long as the process is running, we cannot use this terminal for other commands. 
 
 ## Version 1 - Open a New Terminal / Emit More Messages
