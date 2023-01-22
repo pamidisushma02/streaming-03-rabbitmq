@@ -105,5 +105,15 @@ Each of the version 2 programs include an error as well.
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 ## Multiple Terminals
--[Sending and receiving messages with multiple terminals](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Multiple%20Terminals%20used.docx)
+-[Terminal 1](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%201.png)
+
+-[Terminal 2](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%202.png)
+
+-[Terminal 3](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%203.png)
+
+-[Terminal 4](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%204.png)
+
+-[Terminal 5](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%205.png)
+
+-[Terminal 6](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%206.png)
 
