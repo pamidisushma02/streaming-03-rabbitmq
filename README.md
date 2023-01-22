@@ -94,9 +94,9 @@ Each of the version 2 programs include an error as well.
 9. Everything the function needs comes in through the arguments.
 10. A function may - or may not - return a value. 
 11. When we open a connection, we should close the connection. 
-12. Which of the 4 files will always close() the connection?
+12. Which of the 4 files will always close() the connection?  Response: Three files always close() the connection. v1_emit_message.py has conn.close() which gets executed immediately after printing the message. v2_emit_message.py has conn.close() defined in finally: which always gets executed in the end (either after try: or after except:). SImilarly, v2_listen_for_messages.py has connection.close() in finally: which also gets definitely executed
 13. Search GitHub for if __name__ == "__main__":
-14. How many hits did you get? -- I see 39,993,666 in Code, Approximately 1 Million in Commits, 88K in Issues, 1,884 in Discussions, 5,442 in Wiki results
+14. How many hits did you get? -- response: I see 39,993,666 in Code, Approximately 1 Million in Commits, 88K in Issues, 1,884 in Discussions, 5,442 in Wiki results
 15. Learn and understand this common Python idiom.
 
 ## Reference
