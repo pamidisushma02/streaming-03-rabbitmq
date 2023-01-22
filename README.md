@@ -111,7 +111,8 @@ Each of the version 2 programs include an error as well.
 
 ![alt tag](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%203.png "Terminal 3")
 
--[Terminal 4](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%204.png)
+![alt tag](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%204.png
+"Terminal 4")
 
 -[Terminal 5](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%205.png)
 
