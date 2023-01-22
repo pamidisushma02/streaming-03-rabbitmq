@@ -105,7 +105,7 @@ Each of the version 2 programs include an error as well.
 - [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
 ## Multiple Terminals
--[Terminal 1](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%201.png?raw=true)
+-[Terminal 1](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%201.png?raw=true "Terminal 1")
 
 -[Terminal 2](https://github.com/pamidisushma02/streaming-03-rabbitmq/blob/main/Terminal%202.png)
 
